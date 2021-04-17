@@ -1,0 +1,3 @@
+feedparser==6.0.1
+pytz==2020.1
+sgmllib3k==1.0.0
